@@ -4,7 +4,7 @@ import pandas as pd
 import streamlit as st
 import pickle
 from pathlib import Path
-from . import streamlit_authenticator as stauth
+import streamlit_authenticator as stauth
 
 
 # --- USER AUTHENTICATION ---
