@@ -4,7 +4,8 @@ import pandas as pd
 import streamlit as st
 import pickle
 from pathlib import Path
-import streamlit_authenticator as stauth
+from . import streamlit_authenticator as stauth
+
 
 # --- USER AUTHENTICATION ---
 names = ["Christine", "Prost"]
