@@ -2,3 +2,4 @@ numpy
 pandas
 streamlit
 altair
+streamlit-authenticator==0.1.5
