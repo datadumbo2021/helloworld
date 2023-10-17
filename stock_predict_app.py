@@ -1,5 +1,4 @@
 from tracemalloc import start
-from matplotlib import ticker
 import streamlit as st
 import yfinance as yf
 import pandas as pd
